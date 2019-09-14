@@ -3,8 +3,7 @@ import cv2 #read in pixel data
 import pong #our class
 import numpy as np #math
 import random 
-from collections import deque #queue data structure. fast appends. and pops. replay memory
-
+from collections import deque #queue data structure
 
 
 #hyper params
